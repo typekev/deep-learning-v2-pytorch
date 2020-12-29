@@ -1,0 +1,16 @@
+autoencoder/denoising-autoencoder/data/MNIST/processed/test.pt filter=lfs diff=lfs merge=lfs -text
+weight-initialization/data/FashionMNIST/processed/test.pt filter=lfs diff=lfs merge=lfs -text
+autoencoder/convolutional-autoencoder/data/MNIST/processed/training.pt filter=lfs diff=lfs merge=lfs -text
+convolutional-neural-networks/mnist-mlp/data/MNIST/processed/training.pt filter=lfs diff=lfs merge=lfs -text
+convolutional-neural-networks/mnist-mlp/model.pt filter=lfs diff=lfs merge=lfs -text
+weight-initialization/data/FashionMNIST/processed/training.pt filter=lfs diff=lfs merge=lfs -text
+autoencoder/convolutional-autoencoder/data/MNIST/processed/test.pt filter=lfs diff=lfs merge=lfs -text
+autoencoder/linear-autoencoder/data/MNIST/processed/test.pt filter=lfs diff=lfs merge=lfs -text
+autoencoder/linear-autoencoder/data/MNIST/processed/training.pt filter=lfs diff=lfs merge=lfs -text
+convolutional-neural-networks/cifar-cnn/model_augmented.pt filter=lfs diff=lfs merge=lfs -text
+convolutional-neural-networks/mnist-mlp/data/MNIST/processed/test.pt filter=lfs diff=lfs merge=lfs -text
+autoencoder/denoising-autoencoder/data/MNIST/processed/training.pt filter=lfs diff=lfs merge=lfs -text
+convolutional-neural-networks/cifar-cnn/model_cifar.pt filter=lfs diff=lfs merge=lfs -text
+dermatologist-ai/model.pt filter=lfs diff=lfs merge=lfs -text
+project-dog-classification/model_scratch.pt filter=lfs diff=lfs merge=lfs -text
+project-dog-classification/model_transfer.pt filter=lfs diff=lfs merge=lfs -text
