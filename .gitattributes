@@ -14,3 +14,4 @@ convolutional-neural-networks/cifar-cnn/model_cifar.pt filter=lfs diff=lfs merge
 dermatologist-ai/model.pt filter=lfs diff=lfs merge=lfs -text
 project-dog-classification/model_scratch.pt filter=lfs diff=lfs merge=lfs -text
 project-dog-classification/model_transfer.pt filter=lfs diff=lfs merge=lfs -text
+project-tv-script-generation/trained_rnn.pt filter=lfs diff=lfs merge=lfs -text
