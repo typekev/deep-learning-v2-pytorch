@@ -21,3 +21,4 @@ project-face-generation/train_samples.pkl filter=lfs diff=lfs merge=lfs -text
 gan-mnist/train_samples.pkl filter=lfs diff=lfs merge=lfs -text
 project-face-generation/80_epoch_train_samples.pkl filter=lfs diff=lfs merge=lfs -text
 project-face-generation/40_epoch_train_samples.pkl filter=lfs diff=lfs merge=lfs -text
+project-face-generation/simple_40_epoch_train_samples.pkl filter=lfs diff=lfs merge=lfs -text
